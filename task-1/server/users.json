@@ -109,6 +109,17 @@
       "createdAt": "2024-09-14T12:30:00Z",
       "lastLogin": "2026-02-03T13:00:00Z",
       "department": "Engineering"
+    },
+    {
+      "id": 11,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "password": "$2b$10$V1B7tDyNXAvbF8TqUhlnYOo6ft3r2y3GGVicUm3IawiDM5Fw1ddfS",
+      "role": "user",
+      "active": true,
+      "createdAt": "2026-03-11T11:43:54.909Z",
+      "lastLogin": null,
+      "department": "Engineering"
     }
   ]
 }
